@@ -1,0 +1,174 @@
+{
+ "Abrams": {
+  "code": "Atlas; Bull",
+  "key": "atlas"
+ },
+ "Apollo": {
+  "code": "Fencer",
+  "key": "fencer"
+ },
+ "Baba": {
+  "code": "'''Baba'''; Yaga; Pigeon Lady",
+  "key": "baba"
+ },
+ "Bebop": {
+  "code": null,
+  "key": "bebop"
+ },
+ "Billy": {
+  "code": "Punkgoat",
+  "key": "punkgoat"
+ },
+ "Calico": {
+  "code": "Nano",
+  "key": "nano"
+ },
+ "Celeste": {
+  "code": "Unicorn, Pepper",
+  "key": "unicorn"
+ },
+ "Deadman Danny": {
+  "code": "'''Deadpack'''; Test Pilot; Haywire; Airheart; Deadair",
+  "key": "deadpack"
+ },
+ "Drifter": {
+  "code": null,
+  "key": "drifter"
+ },
+ "Dynamo": {
+  "code": "Prof_dynamo; Prof; '''Sumo'''; Jeong",
+  "key": "dynamo"
+ },
+ "Graves": {
+  "code": "Necro",
+  "key": "necro"
+ },
+ "Grey Talon": {
+  "code": "Archer; Orion",
+  "key": "orion"
+ },
+ "Haze": {
+  "code": null,
+  "key": "haze"
+ },
+ "Holliday": {
+  "code": "Astro",
+  "key": "astro"
+ },
+ "Infernus": {
+  "code": "Inferno",
+  "key": "inferno"
+ },
+ "Ivy": {
+  "code": "Tengu",
+  "key": "tengu"
+ },
+ "Kelvin": {
+  "code": null,
+  "key": "kelvin"
+ },
+ "Lady Geist": {
+  "code": "Geist; Ghost; Spectre",
+  "key": "ghost"
+ },
+ "Lash": {
+  "code": null,
+  "key": "lash"
+ },
+ "McGinnis": {
+  "code": "Forge; Engineer",
+  "key": "forge"
+ },
+ "Mina": {
+  "code": "Vampirebat",
+  "key": "vampirebat"
+ },
+ "Mirage": {
+  "code": "Sandeep",
+  "key": "mirage"
+ },
+ "Mo & Krill": {
+  "code": "Krill; Digger; Grappler; Pouncer and Driller",
+  "key": "krill"
+ },
+ "Nurse Harrow": {
+  "code": "Nurse",
+  "key": "nurse"
+ },
+ "Paige": {
+  "code": "Bookworm; Patience",
+  "key": "bookworm"
+ },
+ "Paradox": {
+  "code": "Chrono",
+  "key": "chrono"
+ },
+ "Pocket": {
+  "code": "Synth; Fairfax",
+  "key": "synth"
+ },
+ "Rat King": {
+  "code": "Ratking",
+  "key": "ratking"
+ },
+ "Rem": {
+  "code": "Familiar",
+  "key": "familiar"
+ },
+ "Seven": {
+  "code": "Gigawatt; Giga",
+  "key": "gigawatt"
+ },
+ "Shiv": {
+  "code": null,
+  "key": "shiv"
+ },
+ "Silver": {
+  "code": "'''Werewolf'''; Shapeshifter",
+  "key": "werewolf"
+ },
+ "Sinclair": {
+  "code": "Magician",
+  "key": "magician"
+ },
+ "The Doorman": {
+  "code": null,
+  "key": "doorman"
+ },
+ "Venator": {
+  "code": "'''Priest'''; Quinn; Rourke; Cain",
+  "key": "priest"
+ },
+ "Victor": {
+  "code": "Frank",
+  "key": "frank"
+ },
+ "Vindicta": {
+  "code": "Hornet",
+  "key": "hornet"
+ },
+ "Violet": {
+  "code": "'''Artist'''; Painter",
+  "key": "artist"
+ },
+ "Viscous": {
+  "code": null,
+  "key": "viscous"
+ },
+ "Vyper": {
+  "code": "Viper, Kali",
+  "key": "viper"
+ },
+ "Warden": {
+  "code": "Murphy",
+  "key": "warden"
+ },
+ "Wraith": {
+  "code": null,
+  "key": "wraith"
+ },
+ "Yamato": {
+  "code": null,
+  "key": "yamato"
+ }
+}

@@ -1,0 +1,3647 @@
+[
+ {
+  "cat": "select",
+  "text": "I was hoping that I could sit back and enjoy my day, but it looks like the Patrons are gonna need some adult supervision.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_01.mp3",
+  "file": "Chessmaster_select_01.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "Too many people would abuse the Patron's gift. I can't let that power fall into the wrong hands.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_02.mp3",
+  "file": "Chessmaster_select_02.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "Those with real strength don't need to show it.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_03.mp3",
+  "file": "Chessmaster_select_03.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "I don't take this decision lightly.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_04.mp3",
+  "file": "Chessmaster_select_04.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "I'm ready to do what needs to be done.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_05.mp3",
+  "file": "Chessmaster_select_05.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "Winning always comes with sacrifice... and I'm ready to make mine.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_06.mp3",
+  "file": "Chessmaster_select_06.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "I've been patient... it's time to make my move.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_07.mp3",
+  "file": "Chessmaster_select_07.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "Time to show the children how it's done.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_08.mp3",
+  "file": "Chessmaster_select_08.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "I have to be the one to do this.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_09.mp3",
+  "file": "Chessmaster_select_09.mp3"
+ },
+ {
+  "cat": "select",
+  "text": "I'm always three moves ahead.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_select_10.mp3",
+  "file": "Chessmaster_select_10.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Abrams",
+  "text": "I think whoever gave you the Tome did the right thing. Maybe, but you're still standin'. And that's a testament to you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_atlas_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_atlas_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Abrams",
+  "text": "I think whoever gave you the Tome did the right thing. Maybe, but you're still standin'. And that's a testament to you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_atlas_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_atlas_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Abrams",
+  "text": "Oh heavens no.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_atlas_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_atlas_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Abrams",
+  "text": "Once you get rid of the Tome, you deserve to take yourself on a nice vacation. I might have a way to help with that. Let me put it this way: If you can buy an airship ticket to Europe, I can call in a favor for five-star",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_atlas_convo03_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_atlas_convo03_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Abrams",
+  "text": "Once you get rid of the Tome, you deserve to take yourself on a nice vacation. I might have a way to help with that. Let me put it this way: If you can buy an airship ticket to Europe, I can call in a favor for five-star",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_atlas_convo03_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_atlas_convo03_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Abrams",
+  "text": "Once you get rid of the Tome, you deserve to take yourself on a nice vacation. I might have a way to help with that. Let me put it this way: If you can buy an airship ticket to Europe, I can call in a favor for five-star",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_atlas_convo03_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_atlas_convo03_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Abrams",
+  "text": "Once you get rid of the Tome, you deserve to take yourself on a nice vacation. I might have a way to help with that. Let me put it this way: If you can buy an airship ticket to Europe, I can call in a favor for five-star",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_atlas_convo03_07.mp3",
+  "file": "Chessmaster_match_start_chessmaster_atlas_convo03_07.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Bebop",
+  "text": "How's your mother doing? I'm sorry... do you think it would be okay for me to pay her a visit?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_bebop_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_bebop_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Bebop",
+  "text": "How's your mother doing? I'm sorry... do you think it would be okay for me to pay her a visit?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_bebop_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_bebop_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Bebop",
+  "text": "Don't worry, Bebop. I won't be sayin' anything to Shelly.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_bebop_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_bebop_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Bebop",
+  "text": "You haven't been by the park in a while. I believe it. But it's important to slow down sometimes. Bebop...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_bebop_convo03_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_bebop_convo03_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Bebop",
+  "text": "You haven't been by the park in a while. I believe it. But it's important to slow down sometimes. Bebop...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_bebop_convo03_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_bebop_convo03_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Bebop",
+  "text": "You haven't been by the park in a while. I believe it. But it's important to slow down sometimes. Bebop...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_bebop_convo03_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_bebop_convo03_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "Of course I'm stuck working with you. Still upset you lost? You hustled me! So: You'd be fine taking an old man's money, but you're not fine losing to an old man. It wasn't a fair game. I didn't make you place a wager...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo01_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo01_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "Of course I'm stuck working with you. Still upset you lost? You hustled me! So: You'd be fine taking an old man's money, but you're not fine losing to an old man. It wasn't a fair game. I didn't make you place a wager...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo01_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo01_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "Of course I'm stuck working with you. Still upset you lost? You hustled me! So: You'd be fine taking an old man's money, but you're not fine losing to an old man. It wasn't a fair game. I didn't make you place a wager...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo01_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo01_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "Of course I'm stuck working with you. Still upset you lost? You hustled me! So: You'd be fine taking an old man's money, but you're not fine losing to an old man. It wasn't a fair game. I didn't make you place a wager...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo01_08.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo01_08.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "What is it that ya want, Billy? I want you to mind your own business. I'm not interested in whatever old-man wisdom you're tryna sell. Suit yourself.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo02_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo02_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "What is it that ya want, Billy? I want you to mind your own business. I'm not interested in whatever old-man wisdom you're tryna sell. Suit yourself.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo02_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo02_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "I hope you show better judgment today than in other parts of your life. This is about the goat head, isn't it? Obviously. How about you worry about your little board game, and not about me!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo03_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo03_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Billy",
+  "text": "I hope you show better judgment today than in other parts of your life. This is about the goat head, isn't it? Obviously. How about you worry about your little board game, and not about me!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_punkgoat_convo03_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_punkgoat_convo03_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "You're looking good. Good! I'm happy you came home. That's not what I mean.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo01_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo01_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "You're looking good. Good! I'm happy you came home. That's not what I mean.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo01_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo01_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "You're looking good. Good! I'm happy you came home. That's not what I mean.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo01_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo01_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "I haven't... but, by all accounts, you've changed quite a bit. Oh, I'm not passin' judgment... I'm showin' disappointment.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "I haven't... but, by all accounts, you've changed quite a bit. Oh, I'm not passin' judgment... I'm showin' disappointment.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo02_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo02_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "None. Calico... the world doesn't revolve around you. They have bigger problems to deal with. Yes, and it had nothin' to do with you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo03_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo03_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "None. Calico... the world doesn't revolve around you. They have bigger problems to deal with. Yes, and it had nothin' to do with you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo03_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo03_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Calico",
+  "text": "None. Calico... the world doesn't revolve around you. They have bigger problems to deal with. Yes, and it had nothin' to do with you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nano_convo03_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nano_convo03_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Celeste",
+  "text": "Hey Sol. Hey Celeste. Ted tell you what was happenin'? Wish I was surprised... Lenny's always gonna Lenny. Well, I'm glad you're here. Of course.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_unicorn_convo01_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_unicorn_convo01_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Celeste",
+  "text": "Hey Sol. Hey Celeste. Ted tell you what was happenin'? Wish I was surprised... Lenny's always gonna Lenny. Well, I'm glad you're here. Of course.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_unicorn_convo01_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_unicorn_convo01_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Celeste",
+  "text": "Hey Sol. Hey Celeste. Ted tell you what was happenin'? Wish I was surprised... Lenny's always gonna Lenny. Well, I'm glad you're here. Of course.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_unicorn_convo01_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_unicorn_convo01_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Celeste",
+  "text": "Hey Sol, you like people-watching, right? Why do you think I spend all my time in the park? Wanna come to the Ren Faire with me? Even I have limits.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_unicorn_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_unicorn_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Celeste",
+  "text": "Hey Sol, you like people-watching, right? Why do you think I spend all my time in the park? Wanna come to the Ren Faire with me? Even I have limits.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_unicorn_convo02_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_unicorn_convo02_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Celeste",
+  "text": "Hey Sol. After the ritual, a bunch of us are gonna get some pizza. You wanna come? I feel like your priorities may be a bit misplaced. I like the idea of assuming that I'm going to survive the next 40 minutes. Sue me. I ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_unicorn_convo03_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_unicorn_convo03_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Celeste",
+  "text": "Hey Sol. After the ritual, a bunch of us are gonna get some pizza. You wanna come? I feel like your priorities may be a bit misplaced. I like the idea of assuming that I'm going to survive the next 40 minutes. Sue me. I ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_unicorn_convo03_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_unicorn_convo03_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Deadman Danny",
+  "text": "I see you're planning on bringing some wisdom to the table. Don't patronize me. I'm trying to be charming, not patronizing! You may be tryin', but you sure as hell ain't succeedin'.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_deadpack_convo01_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_deadpack_convo01_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Deadman Danny",
+  "text": "I see you're planning on bringing some wisdom to the table. Don't patronize me. I'm trying to be charming, not patronizing! You may be tryin', but you sure as hell ain't succeedin'.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_deadpack_convo01_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_deadpack_convo01_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Deadman Danny",
+  "text": "And how are you doing today? ... Okay, I see I'll be the one doing the talking. ... You know, Maggie says that she loves talking with you, I don't know why you're not extending me the same courtesy. That's because Maggie",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_deadpack_convo02_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_deadpack_convo02_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Deadman Danny",
+  "text": "And how are you doing today? ... Okay, I see I'll be the one doing the talking. ... You know, Maggie says that she loves talking with you, I don't know why you're not extending me the same courtesy. That's because Maggie",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_deadpack_convo02_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_deadpack_convo02_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Deadman Danny",
+  "text": "So, you goin' drop the act or what? I see someone likes throwing stones. Don't compare us.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_deadpack_convo03_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_deadpack_convo03_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Deadman Danny",
+  "text": "So, you goin' drop the act or what? I see someone likes throwing stones. Don't compare us.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_deadpack_convo03_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_deadpack_convo03_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Haze",
+  "text": "Do you play chess? Yeah. Are ya any good? I imagine you're better. That's not what I ask. Eh, I'm decent in my friend group, but that doesn't really mean anything. Maybe I'm just the best of the worst. If you're that ins",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_haze_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_haze_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Haze",
+  "text": "Do you play chess? Yeah. Are ya any good? I imagine you're better. That's not what I ask. Eh, I'm decent in my friend group, but that doesn't really mean anything. Maybe I'm just the best of the worst. If you're that ins",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_haze_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_haze_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Haze",
+  "text": "Do you play chess? Yeah. Are ya any good? I imagine you're better. That's not what I ask. Eh, I'm decent in my friend group, but that doesn't really mean anything. Maybe I'm just the best of the worst. If you're that ins",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_haze_convo01_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_haze_convo01_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Haze",
+  "text": "Do you play chess? Yeah. Are ya any good? I imagine you're better. That's not what I ask. Eh, I'm decent in my friend group, but that doesn't really mean anything. Maybe I'm just the best of the worst. If you're that ins",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_haze_convo01_07.mp3",
+  "file": "Chessmaster_match_start_chessmaster_haze_convo01_07.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Haze",
+  "text": "Do you know what you're doing? I was going to ask you the same thing. You were going to question a sandman if they knew how to do their job? I wasn't talking about your capacity as a killer. I could tell that by the unif",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_haze_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_haze_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Haze",
+  "text": "Do you know what you're doing? I was going to ask you the same thing. You were going to question a sandman if they knew how to do their job? I wasn't talking about your capacity as a killer. I could tell that by the unif",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_haze_convo02_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_haze_convo02_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Haze",
+  "text": "You don't seem too worried. I've lived a long life. A good life. If I die trying to make the world a little better... there are worse ways to go.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_haze_convo03_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_haze_convo03_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "It's hard seeing a great man look so sad... I'm not great. I was... but now... It's still in you, Kelvin. I failed. Everyone fails. Not me... Everyone. And the sooner you accept that, the sooner you can get on with your ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "It's hard seeing a great man look so sad... I'm not great. I was... but now... It's still in you, Kelvin. I failed. Everyone fails. Not me... Everyone. And the sooner you accept that, the sooner you can get on with your ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "It's hard seeing a great man look so sad... I'm not great. I was... but now... It's still in you, Kelvin. I failed. Everyone fails. Not me... Everyone. And the sooner you accept that, the sooner you can get on with your ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo01_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo01_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "It's hard seeing a great man look so sad... I'm not great. I was... but now... It's still in you, Kelvin. I failed. Everyone fails. Not me... Everyone. And the sooner you accept that, the sooner you can get on with your ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo01_07.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo01_07.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "Have you thought about your next expedition? Either Appalachia or The Deep. Good choices! I look forward to reading about them. And I look forward to writing about them... but first, we must complete the ritual.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo02_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo02_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "Have you thought about your next expedition? Either Appalachia or The Deep. Good choices! I look forward to reading about them. And I look forward to writing about them... but first, we must complete the ritual.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo02_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo02_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "Is now really the time to carry around a board game? Chess is so much more than a game. I don't know if metaphors are going to keep you alive in a firefight. Metaphors, no. But I have somethin' else in mind!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo03_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo03_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Kelvin",
+  "text": "Is now really the time to carry around a board game? Chess is so much more than a game. I don't know if metaphors are going to keep you alive in a firefight. Metaphors, no. But I have somethin' else in mind!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_kelvin_convo03_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_kelvin_convo03_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "You're messin' with some serious magic. My work is serious. You know what you're doing? If I didn't, I wouldn't be alive, let alone here.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "You're messin' with some serious magic. My work is serious. You know what you're doing? If I didn't, I wouldn't be alive, let alone here.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "What do you do with all that pain you siphon off your patients? Redistribute it. To where? To where it can do the least harm. That's not very forthcoming. That's because it's not your concern.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo02_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo02_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "What do you do with all that pain you siphon off your patients? Redistribute it. To where? To where it can do the least harm. That's not very forthcoming. That's because it's not your concern.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo02_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo02_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "What do you do with all that pain you siphon off your patients? Redistribute it. To where? To where it can do the least harm. That's not very forthcoming. That's because it's not your concern.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo02_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo02_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "You obfuscate your nature like the crone on the park bench. You're astute. In my line of work, if I'm not, people die. You're serious too. As I said, if I'm not-- People die. I understand. Well, that's enough chit-chat, ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo03_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo03_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "You obfuscate your nature like the crone on the park bench. You're astute. In my line of work, if I'm not, people die. You're serious too. As I said, if I'm not-- People die. I understand. Well, that's enough chit-chat, ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo03_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo03_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Nurse Harrow",
+  "text": "You obfuscate your nature like the crone on the park bench. You're astute. In my line of work, if I'm not, people die. You're serious too. As I said, if I'm not-- People die. I understand. Well, that's enough chit-chat, ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_nurse_convo03_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_nurse_convo03_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "You know how to play chess? I don't care about chess. You should. It's the game of kings. And when you're ruling Long Island, you gotta be ready if some dignitary wants to play. Can ya teach me? As long as you're not afr",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "You know how to play chess? I don't care about chess. You should. It's the game of kings. And when you're ruling Long Island, you gotta be ready if some dignitary wants to play. Can ya teach me? As long as you're not afr",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "You know how to play chess? I don't care about chess. You should. It's the game of kings. And when you're ruling Long Island, you gotta be ready if some dignitary wants to play. Can ya teach me? As long as you're not afr",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo01_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo01_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "You know how to play chess? I don't care about chess. You should. It's the game of kings. And when you're ruling Long Island, you gotta be ready if some dignitary wants to play. Can ya teach me? As long as you're not afr",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo01_07.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo01_07.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "Why do you spend so much time in Central Park? Because humanity is magical. And there's no better place to watch people than the park. Hehe, I get it. That's how I feel watching the pinkies eat at the dumpster behind Enz",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "Why do you spend so much time in Central Park? Because humanity is magical. And there's no better place to watch people than the park. Hehe, I get it. That's how I feel watching the pinkies eat at the dumpster behind Enz",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo02_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo02_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "Why do you spend so much time in Central Park? Because humanity is magical. And there's no better place to watch people than the park. Hehe, I get it. That's how I feel watching the pinkies eat at the dumpster behind Enz",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo02_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo02_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "New York awaits, my king. Why are you being so nice? Because it's my nature. But you got an angle. Everyone has an angle. Mine is just more benign.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo03_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo03_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "New York awaits, my king. Why are you being so nice? Because it's my nature. But you got an angle. Everyone has an angle. Mine is just more benign.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo03_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo03_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rat King",
+  "text": "New York awaits, my king. Why are you being so nice? Because it's my nature. But you got an angle. Everyone has an angle. Mine is just more benign.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_ratking_convo03_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_ratking_convo03_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "If you'd like, I can teach you how to play chess. No. Really? It's a fun game. Solomon, I'm sorry to tell you this: No one thinks chess is fun...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "If you'd like, I can teach you how to play chess. No. Really? It's a fun game. Solomon, I'm sorry to tell you this: No one thinks chess is fun...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "I am. Sometimes, it's not about the game. It's about the conversation. I think that sometimes too.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "I am. Sometimes, it's not about the game. It's about the conversation. I think that sometimes too.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo02_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo02_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "I am. Sometimes, it's not about the game. It's about the conversation. I think that sometimes too.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo02_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo02_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "You look sad, little one... Do you have to? I see. Well, don't do that, we're about to get shot at... but, I promise... I'll help you find a solution.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo03_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo03_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "You look sad, little one... Do you have to? I see. Well, don't do that, we're about to get shot at... but, I promise... I'll help you find a solution.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo03_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo03_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "You look sad, little one... Do you have to? I see. Well, don't do that, we're about to get shot at... but, I promise... I'll help you find a solution.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo03_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo03_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Rem",
+  "text": "You look sad, little one... Do you have to? I see. Well, don't do that, we're about to get shot at... but, I promise... I'll help you find a solution.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_familiar_convo03_07.mp3",
+  "file": "Chessmaster_match_start_chessmaster_familiar_convo03_07.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Seven, don't go through with this. I'll do as I wish. It's not too late to change course. You think you're about to cast off some kind of husk that's holdin' ya back. But you're going to lose more than ya think! Nothing ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Seven, don't go through with this. I'll do as I wish. It's not too late to change course. You think you're about to cast off some kind of husk that's holdin' ya back. But you're going to lose more than ya think! Nothing ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Seven, don't go through with this. I'll do as I wish. It's not too late to change course. You think you're about to cast off some kind of husk that's holdin' ya back. But you're going to lose more than ya think! Nothing ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo01_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo01_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Why do you waste your days in Central Park? Living life, making connections, challenging myself... how are those a waste? You're sitting around playing a game when you could be changing the world. I don't want to change ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo02_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo02_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Why do you waste your days in Central Park? Living life, making connections, challenging myself... how are those a waste? You're sitting around playing a game when you could be changing the world. I don't want to change ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo02_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo02_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Why do you waste your days in Central Park? Living life, making connections, challenging myself... how are those a waste? You're sitting around playing a game when you could be changing the world. I don't want to change ",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo02_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo02_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Solomon, how does it feel knowing you'll be complicit in my ascension? It's not my place to stop you... though, if I were you... I wouldn't give me a reason to change my mind. You're too committed with the ritual to stop",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo03_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo03_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Solomon, how does it feel knowing you'll be complicit in my ascension? It's not my place to stop you... though, if I were you... I wouldn't give me a reason to change my mind. You're too committed with the ritual to stop",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo03_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo03_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Seven",
+  "text": "Solomon, how does it feel knowing you'll be complicit in my ascension? It's not my place to stop you... though, if I were you... I wouldn't give me a reason to change my mind. You're too committed with the ritual to stop",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_gigawatt_convo03_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_gigawatt_convo03_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Victor",
+  "text": "May I ask why you're doing this ritual, Victor? To understand my past, the truth about my creation. That's brave of you. Anyone would wanna know. That's not true! There's plenty of people who prefer ignorance... the lies",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_frank_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_frank_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Victor",
+  "text": "May I ask why you're doing this ritual, Victor? To understand my past, the truth about my creation. That's brave of you. Anyone would wanna know. That's not true! There's plenty of people who prefer ignorance... the lies",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_frank_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_frank_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Victor",
+  "text": "May I ask why you're doing this ritual, Victor? To understand my past, the truth about my creation. That's brave of you. Anyone would wanna know. That's not true! There's plenty of people who prefer ignorance... the lies",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_frank_convo01_05.mp3",
+  "file": "Chessmaster_match_start_chessmaster_frank_convo01_05.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Victor",
+  "text": "Even if we win, Victor, be careful trusting what the Patron tells you. Why? What do you know? It's what I don't know! Who's to say if these beings offer half-truths? Even a half-truth would give me something to go on.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_frank_convo02_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_frank_convo02_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Victor",
+  "text": "Even if we win, Victor, be careful trusting what the Patron tells you. Why? What do you know? It's what I don't know! Who's to say if these beings offer half-truths? Even a half-truth would give me something to go on.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_frank_convo02_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_frank_convo02_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Victor",
+  "text": "You're a resilient man, Victor. I don't have any other choice. Sure you do. But you took the hard path, and that's to be commended. That's kind of you to say.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_frank_convo03_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_frank_convo03_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Victor",
+  "text": "You're a resilient man, Victor. I don't have any other choice. Sure you do. But you took the hard path, and that's to be commended. That's kind of you to say.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_frank_convo03_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_frank_convo03_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "You're very brave. Really? I thought that the tingly feeling means I was nervous. Being brave isn't about not being nervous or scared. It's about accepting that whatever it is you're afraid of is less important than what",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo01_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo01_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "You're very brave. Really? I thought that the tingly feeling means I was nervous. Being brave isn't about not being nervous or scared. It's about accepting that whatever it is you're afraid of is less important than what",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo01_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo01_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "The Adversary is a threat. To. Us. All. You know about the Adversary? I do, Viscous... and that's why I'm standin' with ya today.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo02_01.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo02_01.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "The Adversary is a threat. To. Us. All. You know about the Adversary? I do, Viscous... and that's why I'm standin' with ya today.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo02_03.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo02_03.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "Why do people like to talk to you so much? Because I give them my honest opinion, not just what they want to hear. Wouldn't that make everyone mad at you? No. You can be honest without being cruel. Then why don't more pe",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo03_02.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo03_02.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "Why do people like to talk to you so much? Because I give them my honest opinion, not just what they want to hear. Wouldn't that make everyone mad at you? No. You can be honest without being cruel. Then why don't more pe",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo03_04.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo03_04.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "Why do people like to talk to you so much? Because I give them my honest opinion, not just what they want to hear. Wouldn't that make everyone mad at you? No. You can be honest without being cruel. Then why don't more pe",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo03_06.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo03_06.mp3"
+ },
+ {
+  "cat": "heroConvo",
+  "hero": "Viscous",
+  "text": "Why do people like to talk to you so much? Because I give them my honest opinion, not just what they want to hear. Wouldn't that make everyone mad at you? No. You can be honest without being cruel. Then why don't more pe",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_match_start_chessmaster_viscous_convo03_08.mp3",
+  "file": "Chessmaster_match_start_chessmaster_viscous_convo03_08.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Bishop's ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability1.mp3",
+  "file": "Chessmaster_ping_use_ability1.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Bishop's almost ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability1_almost_ready.mp3",
+  "file": "Chessmaster_ping_ability1_almost_ready.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Bishop's not ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability1_not_ready.mp3",
+  "file": "Chessmaster_ping_ability1_not_ready.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "See the bishop? The bishop's a subtle piece.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_01.mp3",
+  "file": "Chessmaster_upgrade_power3_01.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "The bishop can do work if you let him.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_02.mp3",
+  "file": "Chessmaster_upgrade_power3_02.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "I'll come at the problem from all kinds of angles.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_03.mp3",
+  "file": "Chessmaster_upgrade_power3_03.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "This should keep them on their toes.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_04.mp3",
+  "file": "Chessmaster_upgrade_power3_04.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Might be time to call on the bishop.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_05.mp3",
+  "file": "Chessmaster_upgrade_power3_05.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "I don’t just throw out turrets like McGinnis, I'm thoughtful in settin' up my defense.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_06.mp3",
+  "file": "Chessmaster_upgrade_power3_06.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Oh, you can always count on the bishop to get shit done.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_07.mp3",
+  "file": "Chessmaster_upgrade_power3_07.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "The bishop works in harmony with the other pieces. It's all about using him to create opportunity.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_08.mp3",
+  "file": "Chessmaster_upgrade_power3_08.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "They goin' sleep on the bishop? Hm! They're goin' get their ass kicked.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_09.mp3",
+  "file": "Chessmaster_upgrade_power3_09.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "I'll set a trap for them.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power3_10.mp3",
+  "file": "Chessmaster_upgrade_power3_10.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Let's get that bishop moving.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_01.mp3",
+  "file": "Chessmaster_use_power3_01.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Positionin' bishop.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_02.mp3",
+  "file": "Chessmaster_use_power3_02.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Placin' bishop!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_03.mp3",
+  "file": "Chessmaster_use_power3_03.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Setting bishop.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_04.mp3",
+  "file": "Chessmaster_use_power3_04.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "The bishop is about to put in work!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_05.mp3",
+  "file": "Chessmaster_use_power3_05.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "I have a plan for him.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_06.mp3",
+  "file": "Chessmaster_use_power3_06.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "I'm just gettin' started.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_07.mp3",
+  "file": "Chessmaster_use_power3_07.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "This is one move in a longer plan.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_08.mp3",
+  "file": "Chessmaster_use_power3_08.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Oh, there's gonna be a payoff. Trust me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_09.mp3",
+  "file": "Chessmaster_use_power3_09.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Victories are won inch by inch.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power3_10.mp3",
+  "file": "Chessmaster_use_power3_10.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Settin' defenses!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power3_01.mp3",
+  "file": "Chessmaster_desperation_power3_01.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "I'll cover my angles.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power3_02.mp3",
+  "file": "Chessmaster_desperation_power3_02.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "I'll try to hold them off!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power3_03.mp3",
+  "file": "Chessmaster_desperation_power3_03.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "They're puttin' up a fight!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power3_04.mp3",
+  "file": "Chessmaster_desperation_power3_04.mp3"
+ },
+ {
+  "cat": "ab_bishop",
+  "text": "Oh, we'll see who wins...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power3_05.mp3",
+  "file": "Chessmaster_desperation_power3_05.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Knight's ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability2.mp3",
+  "file": "Chessmaster_ping_use_ability2.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Knight's almost ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability2_almost_ready.mp3",
+  "file": "Chessmaster_ping_ability2_almost_ready.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Knight's not ready!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability2_not_ready.mp3",
+  "file": "Chessmaster_ping_ability2_not_ready.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "I will offer my allies safe haven.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_02.mp3",
+  "file": "Chessmaster_upgrade_power2_02.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Everyone deserves protection.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_03.mp3",
+  "file": "Chessmaster_upgrade_power2_03.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "If you control the pace of battle, you control the outcome.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_04.mp3",
+  "file": "Chessmaster_upgrade_power2_04.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "It's okay to play defensively.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_05.mp3",
+  "file": "Chessmaster_upgrade_power2_05.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Sometimes, aggression is not the path to victory.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_06.mp3",
+  "file": "Chessmaster_upgrade_power2_06.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "I like to wait for my opponent to make a mistake.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_07.mp3",
+  "file": "Chessmaster_upgrade_power2_07.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Eh, we'll survive whatever they throw at us.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_08.mp3",
+  "file": "Chessmaster_upgrade_power2_08.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "We're gonna fight, but we're gonna fight smart.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_09.mp3",
+  "file": "Chessmaster_upgrade_power2_09.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "I look after my friends.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_10.mp3",
+  "file": "Chessmaster_upgrade_power2_10.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Once you get a handler on how it moves, the knight is an essential piece.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power1_10.mp3",
+  "file": "Chessmaster_upgrade_power1_10.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Settin' knight!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_01.mp3",
+  "file": "Chessmaster_use_power2_01.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "I gotcha back.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_02.mp3",
+  "file": "Chessmaster_use_power2_02.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Settin' defense.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_03.mp3",
+  "file": "Chessmaster_use_power2_03.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Don't worry. I gotchu.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_04.mp3",
+  "file": "Chessmaster_use_power2_04.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "We're in this together.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_05.mp3",
+  "file": "Chessmaster_use_power2_05.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Trust me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_06.mp3",
+  "file": "Chessmaster_use_power2_06.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "I'll keep you standin'.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_07.mp3",
+  "file": "Chessmaster_use_power2_07.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Show them what you're made of!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_08.mp3",
+  "file": "Chessmaster_use_power2_08.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "We will outlast them.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_09.mp3",
+  "file": "Chessmaster_use_power2_09.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "We will stand resolute!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power2_10.mp3",
+  "file": "Chessmaster_use_power2_10.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "The knight protects!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power2_01.mp3",
+  "file": "Chessmaster_desperation_power2_01.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "No one's givin' up!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power2_02.mp3",
+  "file": "Chessmaster_desperation_power2_02.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "Shieldin'!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power2_03.mp3",
+  "file": "Chessmaster_desperation_power2_03.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "I need some protection!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power2_04.mp3",
+  "file": "Chessmaster_desperation_power2_04.mp3"
+ },
+ {
+  "cat": "ab_knight",
+  "text": "I can't back down!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power2_05.mp3",
+  "file": "Chessmaster_desperation_power2_05.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Rook's ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability3.mp3",
+  "file": "Chessmaster_ping_use_ability3.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Rook's almost ready!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability3_almost_ready.mp3",
+  "file": "Chessmaster_ping_ability3_almost_ready.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Rook's not ready!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability3_not_ready.mp3",
+  "file": "Chessmaster_ping_ability3_not_ready.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "The rook is reliable dollars. You know what it's goin' do. You know it's gonna deliver, and anyone with half a brain knows: You can't leave the rook alone.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power2_01.mp3",
+  "file": "Chessmaster_upgrade_power2_01.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Now's not the time to be timid.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power1_02.mp3",
+  "file": "Chessmaster_upgrade_power1_02.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "The rook moves strong and sure.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power1_07.mp3",
+  "file": "Chessmaster_upgrade_power1_07.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "This piece will carve through their army.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power1_09.mp3",
+  "file": "Chessmaster_upgrade_power1_09.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Rooks out.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_01.mp3",
+  "file": "Chessmaster_use_power1_01.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "I'm on the attack.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_02.mp3",
+  "file": "Chessmaster_use_power1_02.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "They won't expect this.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_03.mp3",
+  "file": "Chessmaster_use_power1_03.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "I'll keep them on their toes.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_04.mp3",
+  "file": "Chessmaster_use_power1_04.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Usin' rook!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_05.mp3",
+  "file": "Chessmaster_use_power1_05.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Sendin' rook!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_06.mp3",
+  "file": "Chessmaster_use_power1_06.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Let's see them deal with this.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_07.mp3",
+  "file": "Chessmaster_use_power1_07.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "I'm not afraid of you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_08.mp3",
+  "file": "Chessmaster_use_power1_08.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Openin' gambit.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_09.mp3",
+  "file": "Chessmaster_use_power1_09.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Your move.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power1_10.mp3",
+  "file": "Chessmaster_use_power1_10.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Rooks out!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power1_01.mp3",
+  "file": "Chessmaster_desperation_power1_01.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Sendin' castle.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power1_02.mp3",
+  "file": "Chessmaster_desperation_power1_02.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "Need to play aggressive!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power1_03.mp3",
+  "file": "Chessmaster_desperation_power1_03.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "I'm still in this!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power1_04.mp3",
+  "file": "Chessmaster_desperation_power1_04.mp3"
+ },
+ {
+  "cat": "ab_rook",
+  "text": "I'll keep fightin'.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power1_05.mp3",
+  "file": "Chessmaster_desperation_power1_05.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Queen's ready!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_01.mp3",
+  "file": "Chessmaster_ping_use_ability4_01.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Ready to promote queen!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_02.mp3",
+  "file": "Chessmaster_ping_use_ability4_02.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Ready to use my queen!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_03.mp3",
+  "file": "Chessmaster_ping_use_ability4_03.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Ready to call on the queen.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_04.mp3",
+  "file": "Chessmaster_ping_use_ability4_04.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "The queen is ready to help.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_05.mp3",
+  "file": "Chessmaster_ping_use_ability4_05.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Ready to play.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_06.mp3",
+  "file": "Chessmaster_ping_use_ability4_06.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Ready to pull out the big guns!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_07.mp3",
+  "file": "Chessmaster_ping_use_ability4_07.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "My queen is ready to help!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_08.mp3",
+  "file": "Chessmaster_ping_use_ability4_08.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Ready to deploy queen.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_09.mp3",
+  "file": "Chessmaster_ping_use_ability4_09.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "I have my queen.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_use_ability4_10.mp3",
+  "file": "Chessmaster_ping_use_ability4_10.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Queen's almost ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability4_almost_ready.mp3",
+  "file": "Chessmaster_ping_ability4_almost_ready.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Queen's not ready.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_ability4_not_ready.mp3",
+  "file": "Chessmaster_ping_ability4_not_ready.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Doesn't matter if you're talking about a chess piece, your girlfriend, your wife, your daughter: You always protect the queen!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_01.mp3",
+  "file": "Chessmaster_upgrade_power4_01.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Alright. Let's put the pressure on them.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_02.mp3",
+  "file": "Chessmaster_upgrade_power4_02.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "No one better disrespect the queen...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_03.mp3",
+  "file": "Chessmaster_upgrade_power4_03.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Alright, your majesty. I'm countin' on you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_04.mp3",
+  "file": "Chessmaster_upgrade_power4_04.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "The queen's goin' make her presence known.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_05.mp3",
+  "file": "Chessmaster_upgrade_power4_05.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Soon, the queen will arrive.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_06.mp3",
+  "file": "Chessmaster_upgrade_power4_06.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "No one stands against the queen.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_07.mp3",
+  "file": "Chessmaster_upgrade_power4_07.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "I got a few tricks up my sleeve.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_08.mp3",
+  "file": "Chessmaster_upgrade_power4_08.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "The queen never lets me down.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_09.mp3",
+  "file": "Chessmaster_upgrade_power4_09.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "I'm ready to make some big moves.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_upgrade_power4_10.mp3",
+  "file": "Chessmaster_upgrade_power4_10.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Here comes the queen.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_01.mp3",
+  "file": "Chessmaster_use_power4_01.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Long may she reign.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_03.mp3",
+  "file": "Chessmaster_use_power4_03.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "The queen has arrived.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_04.mp3",
+  "file": "Chessmaster_use_power4_04.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "She has come to... deliver us. She has come to deliver us!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_05.mp3",
+  "file": "Chessmaster_use_power4_05.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "She has come to... deliver us. She has come to deliver us!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_05_alt_01.mp3",
+  "file": "Chessmaster_use_power4_05_alt_01.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "The queen's might will not be questioned!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_06.mp3",
+  "file": "Chessmaster_use_power4_06.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Humble them, my queen!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_07.mp3",
+  "file": "Chessmaster_use_power4_07.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Now you answer to the queen!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_08.mp3",
+  "file": "Chessmaster_use_power4_08.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "I was waitin' to use them.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_09.mp3",
+  "file": "Chessmaster_use_power4_09.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "The queen can make all the difference.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_10.mp3",
+  "file": "Chessmaster_use_power4_10.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "Bow... before the queen.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_use_power4_02.mp3",
+  "file": "Chessmaster_use_power4_02.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "I do not concede!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power4_01.mp3",
+  "file": "Chessmaster_desperation_power4_01.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "I have more tricks in store.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power4_02.mp3",
+  "file": "Chessmaster_desperation_power4_02.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "First rule of the hustle: Let them think they're winning!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power4_03.mp3",
+  "file": "Chessmaster_desperation_power4_03.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "My turn.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power4_04.mp3",
+  "file": "Chessmaster_desperation_power4_04.mp3"
+ },
+ {
+  "cat": "ab_queen",
+  "text": "You've had your fun. Now I play for real!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_desperation_power4_05.mp3",
+  "file": "Chessmaster_desperation_power4_05.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Kid, you've got a lot to learn.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_01.mp3",
+  "file": "Chessmaster_kill_anyhero_01.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "You got to think farther ahead if ya wanna beat me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_02.mp3",
+  "file": "Chessmaster_kill_anyhero_02.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "You aren't gonna win.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_03.mp3",
+  "file": "Chessmaster_kill_anyhero_03.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "There's a lot you can learn from losing to a master.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_04.mp3",
+  "file": "Chessmaster_kill_anyhero_04.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "You thought this was gonna be easy, didn't you?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_05.mp3",
+  "file": "Chessmaster_kill_anyhero_05.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "That was one bad gambit.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_06.mp3",
+  "file": "Chessmaster_kill_anyhero_06.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Hopefully, you can grow from this.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_07.mp3",
+  "file": "Chessmaster_kill_anyhero_07.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "I don't go easy on people.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_08.mp3",
+  "file": "Chessmaster_kill_anyhero_08.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Everybody loses eventually.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_09.mp3",
+  "file": "Chessmaster_kill_anyhero_09.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "There's always someone better than you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_anyhero_10.mp3",
+  "file": "Chessmaster_kill_anyhero_10.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "You aren't ready to face me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_melee_kill_01.mp3",
+  "file": "Chessmaster_melee_kill_01.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Stay away from me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_melee_kill_02.mp3",
+  "file": "Chessmaster_melee_kill_02.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Allow me to teach you a lesson.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_melee_kill_03.mp3",
+  "file": "Chessmaster_melee_kill_03.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Tryin' to beat up an old man?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_melee_kill_04.mp3",
+  "file": "Chessmaster_melee_kill_04.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Rethink your life choices.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_melee_kill_05.mp3",
+  "file": "Chessmaster_melee_kill_05.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Chess is the great equalizer.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_kill_high_networth.mp3",
+  "file": "Chessmaster_kill_high_networth.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "You got overconfident, my friend.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_end_streak.mp3",
+  "file": "Chessmaster_end_streak.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Oh, this game is far from over.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_revenge_kill.mp3",
+  "file": "Chessmaster_revenge_kill.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Good job.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_congrats_01.mp3",
+  "file": "Chessmaster_congrats_01.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Not bad.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_congrats_02.mp3",
+  "file": "Chessmaster_congrats_02.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Well done.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_congrats_03.mp3",
+  "file": "Chessmaster_congrats_03.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "Good teamwork.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_congrats_04.mp3",
+  "file": "Chessmaster_congrats_04.mp3"
+ },
+ {
+  "cat": "kill",
+  "text": "This is going well.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_congrats_05.mp3",
+  "file": "Chessmaster_congrats_05.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "You guys are so predictable!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_start_01.mp3",
+  "file": "Chessmaster_killstreak_start_01.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "I'll do what I have to to protect New York!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_start_02.mp3",
+  "file": "Chessmaster_killstreak_start_02.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "Losin' is good for ya! It builds grit!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_start_03.mp3",
+  "file": "Chessmaster_killstreak_start_03.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "Today is going to be a good day, I can feel it.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_start_04.mp3",
+  "file": "Chessmaster_killstreak_start_04.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "God, I love this city...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_start_05.mp3",
+  "file": "Chessmaster_killstreak_start_05.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "They're really going to let me walk all over them, aren't they?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_mid_01.mp3",
+  "file": "Chessmaster_killstreak_mid_01.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "I don't know what people were nervous about. The Maelstrom is going great for me!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_mid_02.mp3",
+  "file": "Chessmaster_killstreak_mid_02.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "Don't get angry. It's only a game.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_mid_03.mp3",
+  "file": "Chessmaster_killstreak_mid_03.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "Lose with some dignity!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_high_01.mp3",
+  "file": "Chessmaster_killstreak_high_01.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "They keep fallin' for trap after trap!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_high_02.mp3",
+  "file": "Chessmaster_killstreak_high_02.mp3"
+ },
+ {
+  "cat": "streak",
+  "text": "We're not at the same level.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_killstreak_high_03.mp3",
+  "file": "Chessmaster_killstreak_high_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Nice try.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_parry_01.mp3",
+  "file": "Chessmaster_parry_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "There's that fightin' spirit!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_parry_02.mp3",
+  "file": "Chessmaster_parry_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Now it's my turn.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_parry_03.mp3",
+  "file": "Chessmaster_parry_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Not today, my friend. Not today, friend.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_interrupt_01.mp3",
+  "file": "Chessmaster_interrupt_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Not today, my friend. Not today, friend.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_interrupt_01_alt_01.mp3",
+  "file": "Chessmaster_interrupt_01_alt_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I don't think so.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_interrupt_02.mp3",
+  "file": "Chessmaster_interrupt_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "That's not goin' happen.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_interrupt_03.mp3",
+  "file": "Chessmaster_interrupt_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Stopped them.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_interrupt_04.mp3",
+  "file": "Chessmaster_interrupt_04.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Not so fast.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_interrupt_05.mp3",
+  "file": "Chessmaster_interrupt_05.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "There's souls over there.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_see_money_01.mp3",
+  "file": "Chessmaster_see_money_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I see some souls lyin' around.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_see_money_02.mp3",
+  "file": "Chessmaster_see_money_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "We shouldn't ignore those souls.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_see_money_03.mp3",
+  "file": "Chessmaster_see_money_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "These can add up.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_gold_01.mp3",
+  "file": "Chessmaster_pick_up_gold_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I'll never say \"no\" to free souls.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_gold_02.mp3",
+  "file": "Chessmaster_pick_up_gold_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Who leaves souls lyin' around?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_gold_03.mp3",
+  "file": "Chessmaster_pick_up_gold_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Every soul counts.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_gold_04.mp3",
+  "file": "Chessmaster_pick_up_gold_04.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I can't afford to ignore loose souls.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_gold_05.mp3",
+  "file": "Chessmaster_pick_up_gold_05.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "We're makin' progress, that's all that matters.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_tower_got_denied_01.mp3",
+  "file": "Chessmaster_tower_got_denied_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "An acceptable trade.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_tower_got_denied_02.mp3",
+  "file": "Chessmaster_tower_got_denied_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Sometimes, sacrifices need to be made.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_tower_got_denied_03.mp3",
+  "file": "Chessmaster_tower_got_denied_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "We came out ahead.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_tower_got_denied_04.mp3",
+  "file": "Chessmaster_tower_got_denied_04.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "The objective is down.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_tower_got_denied_05.mp3",
+  "file": "Chessmaster_tower_got_denied_05.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "They couldn't have gotten far.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hunt_01.mp3",
+  "file": "Chessmaster_hunt_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "They were right here!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hunt_02.mp3",
+  "file": "Chessmaster_hunt_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Where the hell did they go?!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hunt_03.mp3",
+  "file": "Chessmaster_hunt_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Almost had 'em...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_near_miss_01.mp3",
+  "file": "Chessmaster_near_miss_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Oh oh? They got lucky!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_near_miss_02.mp3",
+  "file": "Chessmaster_near_miss_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "They gonna think twice next time.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_near_miss_03.mp3",
+  "file": "Chessmaster_near_miss_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I'll be waitin' right here, my friend.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_near_miss_04.mp3",
+  "file": "Chessmaster_near_miss_04.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Damn it!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_near_miss_05.mp3",
+  "file": "Chessmaster_near_miss_05.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "They're puttin' up a fight.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_close_call_01.mp3",
+  "file": "Chessmaster_close_call_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "They almost had me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_close_call_02.mp3",
+  "file": "Chessmaster_close_call_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "That was close.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_close_call_03.mp3",
+  "file": "Chessmaster_close_call_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "That coulda been a disaster.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_close_call_04.mp3",
+  "file": "Chessmaster_close_call_04.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Glad I didn't overcommit.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_close_call_05.mp3",
+  "file": "Chessmaster_close_call_05.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I think I may have overextended.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_be_careful_01.mp3",
+  "file": "Chessmaster_be_careful_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I'm bein' too hasty.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_be_careful_02.mp3",
+  "file": "Chessmaster_be_careful_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "This feels like a trap.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_be_careful_03.mp3",
+  "file": "Chessmaster_be_careful_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I'll hold out as long as I can.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_last_one_standing_01.mp3",
+  "file": "Chessmaster_last_one_standing_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I'll try to buy the time we need.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_last_one_standing_02.mp3",
+  "file": "Chessmaster_last_one_standing_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I won't give up.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_last_one_standing_03.mp3",
+  "file": "Chessmaster_last_one_standing_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "There's too many of them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_outnumbered_01.mp3",
+  "file": "Chessmaster_outnumbered_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I don't like the odds here.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_outnumbered_02.mp3",
+  "file": "Chessmaster_outnumbered_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I think I need my team...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_outnumbered_03.mp3",
+  "file": "Chessmaster_outnumbered_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "We have the Rejuvenator.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_rejuv_01.mp3",
+  "file": "Chessmaster_pick_up_rejuv_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "The Rejuvenator's ours!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_rejuv_02.mp3",
+  "file": "Chessmaster_pick_up_rejuv_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Good work takin' the Rejuvenator.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pick_up_rejuv_03.mp3",
+  "file": "Chessmaster_pick_up_rejuv_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "They have the Rejuvenator!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_gets_rejuv_01.mp3",
+  "file": "Chessmaster_enemy_gets_rejuv_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Be careful! They got the Rejuv!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_gets_rejuv_02.mp3",
+  "file": "Chessmaster_enemy_gets_rejuv_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "We can't afford to make mistakes now.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_gets_rejuv_03.mp3",
+  "file": "Chessmaster_enemy_gets_rejuv_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "It's time to complete the ritual.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leave_base_01.mp3",
+  "file": "Chessmaster_leave_base_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "We need to finish this!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leave_base_02.mp3",
+  "file": "Chessmaster_leave_base_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "We can end this.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leave_base_03.mp3",
+  "file": "Chessmaster_leave_base_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I need to get back to my team.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leave_base_04.mp3",
+  "file": "Chessmaster_leave_base_04.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Triumph is at hand!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leave_base_05.mp3",
+  "file": "Chessmaster_leave_base_05.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Don't shoot them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_see_enemy_metal_skin_01.mp3",
+  "file": "Chessmaster_see_enemy_metal_skin_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "You can't shoot them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_see_enemy_metal_skin_02.mp3",
+  "file": "Chessmaster_see_enemy_metal_skin_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Don't waste bullets!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_see_enemy_metal_skin_03.mp3",
+  "file": "Chessmaster_see_enemy_metal_skin_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I need to leave.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leaving_area_01.mp3",
+  "file": "Chessmaster_leaving_area_01.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "You're on your own.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leaving_area_02.mp3",
+  "file": "Chessmaster_leaving_area_02.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "I'm leavin'.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_leaving_area_03.mp3",
+  "file": "Chessmaster_leaving_area_03.mp3"
+ },
+ {
+  "cat": "situational",
+  "text": "Time to show the children how it's done.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_debut_01.mp3",
+  "file": "Chessmaster_hero_debut_01.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Effort 01",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_general_01.mp3",
+  "file": "Chessmaster_effort_general_01.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Effort 02",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_general_02.mp3",
+  "file": "Chessmaster_effort_general_02.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Effort 03",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_general_03.mp3",
+  "file": "Chessmaster_effort_general_03.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Effort 04",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_general_04.mp3",
+  "file": "Chessmaster_effort_general_04.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Effort 05",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_general_05.mp3",
+  "file": "Chessmaster_effort_general_05.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Effort 06",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_general_06.mp3",
+  "file": "Chessmaster_effort_general_06.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Effort 07",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_general_07.mp3",
+  "file": "Chessmaster_effort_general_07.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 01",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_01.mp3",
+  "file": "Chessmaster_effort_dash_01.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 02",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_02.mp3",
+  "file": "Chessmaster_effort_dash_02.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 03",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_03.mp3",
+  "file": "Chessmaster_effort_dash_03.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 04",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_04.mp3",
+  "file": "Chessmaster_effort_dash_04.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 05",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_05.mp3",
+  "file": "Chessmaster_effort_dash_05.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 06",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_05_alt_01.mp3",
+  "file": "Chessmaster_effort_dash_05_alt_01.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 07",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_05_alt_02.mp3",
+  "file": "Chessmaster_effort_dash_05_alt_02.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 08",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_05_alt_03.mp3",
+  "file": "Chessmaster_effort_dash_05_alt_03.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Dash 09",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_dash_05_alt_04.mp3",
+  "file": "Chessmaster_effort_dash_05_alt_04.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Light Melee 01",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_small_01.mp3",
+  "file": "Chessmaster_effort_melee_small_01.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Light Melee 02",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_small_02.mp3",
+  "file": "Chessmaster_effort_melee_small_02.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Light Melee 03",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_small_03.mp3",
+  "file": "Chessmaster_effort_melee_small_03.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Light Melee 04",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_small_04.mp3",
+  "file": "Chessmaster_effort_melee_small_04.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Light Melee 05",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_small_05.mp3",
+  "file": "Chessmaster_effort_melee_small_05.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Heavy Melee 01",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_big_01.mp3",
+  "file": "Chessmaster_effort_melee_big_01.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Heavy Melee 02",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_big_02.mp3",
+  "file": "Chessmaster_effort_melee_big_02.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Heavy Melee 03",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_big_03.mp3",
+  "file": "Chessmaster_effort_melee_big_03.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Heavy Melee 04",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_big_04.mp3",
+  "file": "Chessmaster_effort_melee_big_04.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Heavy Melee 05",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_big_05.mp3",
+  "file": "Chessmaster_effort_melee_big_05.mp3"
+ },
+ {
+  "cat": "effort",
+  "text": "Heavy Melee 06",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_effort_melee_big_05_alt_01.mp3",
+  "file": "Chessmaster_effort_melee_big_05_alt_01.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 01",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_01.mp3",
+  "file": "Chessmaster_pain_small_01.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 02",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_02.mp3",
+  "file": "Chessmaster_pain_small_02.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 03",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_03.mp3",
+  "file": "Chessmaster_pain_small_03.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 04",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_04.mp3",
+  "file": "Chessmaster_pain_small_04.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 05",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_05.mp3",
+  "file": "Chessmaster_pain_small_05.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 06",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_06.mp3",
+  "file": "Chessmaster_pain_small_06.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 07",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_07.mp3",
+  "file": "Chessmaster_pain_small_07.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Small Pain 08",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_small_08.mp3",
+  "file": "Chessmaster_pain_small_08.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 01",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_01.mp3",
+  "file": "Chessmaster_pain_big_01.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 02",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_02.mp3",
+  "file": "Chessmaster_pain_big_02.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 03",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_03.mp3",
+  "file": "Chessmaster_pain_big_03.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 04",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_04.mp3",
+  "file": "Chessmaster_pain_big_04.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 05",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_05.mp3",
+  "file": "Chessmaster_pain_big_05.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 06",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_06.mp3",
+  "file": "Chessmaster_pain_big_06.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 07",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_07.mp3",
+  "file": "Chessmaster_pain_big_07.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 08",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_08.mp3",
+  "file": "Chessmaster_pain_big_08.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Big Pain 09",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_big_09.mp3",
+  "file": "Chessmaster_pain_big_09.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Death 01",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_death_01.mp3",
+  "file": "Chessmaster_pain_death_01.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Death 02",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_death_02.mp3",
+  "file": "Chessmaster_pain_death_02.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Death 03",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_death_03.mp3",
+  "file": "Chessmaster_pain_death_03.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Death 04",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_death_04.mp3",
+  "file": "Chessmaster_pain_death_04.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Death 05",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_death_05.mp3",
+  "file": "Chessmaster_pain_death_05.mp3"
+ },
+ {
+  "cat": "pain",
+  "text": "Death 06",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_pain_death_05_alt_01.mp3",
+  "file": "Chessmaster_pain_death_05_alt_01.mp3"
+ },
+ {
+  "cat": "pregame",
+  "text": "I'm lookin' forward to workin' with all of you.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_pre_game_01.mp3",
+  "file": "Chessmaster_ping_pre_game_01.mp3"
+ },
+ {
+  "cat": "pregame",
+  "text": "A little bit of nerves are good for ya. It means... you're invested.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_pre_game_02.mp3",
+  "file": "Chessmaster_ping_pre_game_02.mp3"
+ },
+ {
+  "cat": "pregame",
+  "text": "This group has real \"Central Park at 2AM\" energy!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_pre_game_03.mp3",
+  "file": "Chessmaster_ping_pre_game_03.mp3"
+ },
+ {
+  "cat": "pregame",
+  "text": "If we fight smart, we're going to win.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_pre_game_04.mp3",
+  "file": "Chessmaster_ping_pre_game_04.mp3"
+ },
+ {
+  "cat": "pregame",
+  "text": "We need to communicate with each other if we're going to pull this off.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_pre_game_05.mp3",
+  "file": "Chessmaster_ping_pre_game_05.mp3"
+ },
+ {
+  "cat": "pregame",
+  "text": "So this is who the Patron assembled? Interestin'...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ping_pre_game_06.mp3",
+  "file": "Chessmaster_ping_pre_game_06.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Abrams",
+  "text": "I guess there is a place for brute force.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_atlas_big_stun_01.mp3",
+  "file": "Chessmaster_ally_atlas_big_stun_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Abrams",
+  "text": "The Detective made his move!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_atlas_big_stun_02.mp3",
+  "file": "Chessmaster_ally_atlas_big_stun_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Abrams",
+  "text": "Support Abrams!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_atlas_big_stun_03.mp3",
+  "file": "Chessmaster_ally_atlas_big_stun_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Abrams",
+  "text": "You're a warrior, Abrams!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_atlas_unkillable_01.mp3",
+  "file": "Chessmaster_ally_atlas_unkillable_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Abrams",
+  "text": "Abrams stands resolute!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_atlas_unkillable_02.mp3",
+  "file": "Chessmaster_ally_atlas_unkillable_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Abrams",
+  "text": "Don't back down, Abrams!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_atlas_unkillable_03.mp3",
+  "file": "Chessmaster_ally_atlas_unkillable_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Bebop",
+  "text": "Nice hook, Bebop!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_bebop_far_hook_01.mp3",
+  "file": "Chessmaster_ally_bebop_far_hook_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Bebop",
+  "text": "Bebop grabbed them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_bebop_far_hook_02.mp3",
+  "file": "Chessmaster_ally_bebop_far_hook_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Bebop",
+  "text": "Well done, Bebop!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_bebop_far_hook_03.mp3",
+  "file": "Chessmaster_ally_bebop_far_hook_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Bebop",
+  "text": "Very clever, my friend!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_bebop_uppercut_towards_boss_01.mp3",
+  "file": "Chessmaster_ally_bebop_uppercut_towards_boss_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Bebop",
+  "text": "Good thinking, Bebop!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_bebop_uppercut_towards_boss_02.mp3",
+  "file": "Chessmaster_ally_bebop_uppercut_towards_boss_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Bebop",
+  "text": "Well done, my iron friend!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_bebop_uppercut_towards_boss_03.mp3",
+  "file": "Chessmaster_ally_bebop_uppercut_towards_boss_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Dynamo",
+  "text": "The Professor has them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_dynamo_big_blackhole_01.mp3",
+  "file": "Chessmaster_ally_dynamo_big_blackhole_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Dynamo",
+  "text": "Black hole!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_dynamo_big_blackhole_02.mp3",
+  "file": "Chessmaster_ally_dynamo_big_blackhole_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Dynamo",
+  "text": "Help the Professor!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_dynamo_big_blackhole_03.mp3",
+  "file": "Chessmaster_ally_dynamo_big_blackhole_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Dynamo",
+  "text": "Thanks, Professor.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_dynamo_clutch_heal_01.mp3",
+  "file": "Chessmaster_ally_dynamo_clutch_heal_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Dynamo",
+  "text": "Thank you, my friend.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_dynamo_clutch_heal_02.mp3",
+  "file": "Chessmaster_ally_dynamo_clutch_heal_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Dynamo",
+  "text": "I knew I could count on you, Dynamo.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_dynamo_clutch_heal_03.mp3",
+  "file": "Chessmaster_ally_dynamo_clutch_heal_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Grey Talon",
+  "text": "Nice shot, Talon.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_orion_far_shot_01.mp3",
+  "file": "Chessmaster_ally_orion_far_shot_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Grey Talon",
+  "text": "Impressive shot!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_orion_far_shot_02.mp3",
+  "file": "Chessmaster_ally_orion_far_shot_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Grey Talon",
+  "text": "I didn't think you could hit that, Talon.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_orion_far_shot_03.mp3",
+  "file": "Chessmaster_ally_orion_far_shot_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Grey Talon",
+  "text": "We are all in Grey Talon's debt.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_orion_missile_stops_ult_01.mp3",
+  "file": "Chessmaster_ally_orion_missile_stops_ult_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Grey Talon",
+  "text": "Grey Talon was lookin' out for us.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_orion_missile_stops_ult_02.mp3",
+  "file": "Chessmaster_ally_orion_missile_stops_ult_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Grey Talon",
+  "text": "Thank you, Talon. Wherever you are.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_orion_missile_stops_ult_03.mp3",
+  "file": "Chessmaster_ally_orion_missile_stops_ult_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Haze",
+  "text": "Haze is not someone I'd ever want as an enemy.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_haze_big_ult_01.mp3",
+  "file": "Chessmaster_ally_haze_big_ult_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Haze",
+  "text": "Remind me never to piss off a sandman.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_haze_big_ult_02.mp3",
+  "file": "Chessmaster_ally_haze_big_ult_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Haze",
+  "text": "Haze slaughtered them.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_haze_big_ult_03.mp3",
+  "file": "Chessmaster_ally_haze_big_ult_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Haze",
+  "text": "Thanks, Haze.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_haze_interrupt_with_finesse_01.mp3",
+  "file": "Chessmaster_ally_haze_interrupt_with_finesse_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Haze",
+  "text": "Glad the OSIC has our back.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_haze_interrupt_with_finesse_02.mp3",
+  "file": "Chessmaster_ally_haze_interrupt_with_finesse_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Haze",
+  "text": "Never discount a sandman.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_haze_interrupt_with_finesse_03.mp3",
+  "file": "Chessmaster_ally_haze_interrupt_with_finesse_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Holliday",
+  "text": "Ha ha!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_astro_bounce_pad_01.mp3",
+  "file": "Chessmaster_ally_astro_bounce_pad_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Holliday",
+  "text": "Thank you, Holliday.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_astro_bounce_pad_02.mp3",
+  "file": "Chessmaster_ally_astro_bounce_pad_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Holliday",
+  "text": "I soar!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_astro_bounce_pad_03.mp3",
+  "file": "Chessmaster_ally_astro_bounce_pad_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Holliday",
+  "text": "Holliday has them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_astro_lasso_victim_01.mp3",
+  "file": "Chessmaster_ally_astro_lasso_victim_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Holliday",
+  "text": "Help Holliday!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_astro_lasso_victim_02.mp3",
+  "file": "Chessmaster_ally_astro_lasso_victim_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Holliday",
+  "text": "Help the Sheriff!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_astro_lasso_victim_03.mp3",
+  "file": "Chessmaster_ally_astro_lasso_victim_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Infernus",
+  "text": "Infernus, you are a man of many talents.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_inferno_burns_down_objective_01.mp3",
+  "file": "Chessmaster_ally_inferno_burns_down_objective_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Infernus",
+  "text": "That objective didn't last long.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_inferno_burns_down_objective_02.mp3",
+  "file": "Chessmaster_ally_inferno_burns_down_objective_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Infernus",
+  "text": "Good job, Infernus!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_inferno_burns_down_objective_03.mp3",
+  "file": "Chessmaster_ally_inferno_burns_down_objective_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Ivy",
+  "text": "It's an honor to fight alongside the Savior of Spanish Harlem.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_tengu_take_objective_with_teather_01.mp3",
+  "file": "Chessmaster_ally_tengu_take_objective_with_teather_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Ivy",
+  "text": "Good job, Ivy.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_tengu_take_objective_with_teather_02.mp3",
+  "file": "Chessmaster_ally_tengu_take_objective_with_teather_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Ivy",
+  "text": "I'm glad you're here, Ivy.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_tengu_take_objective_with_teather_03.mp3",
+  "file": "Chessmaster_ally_tengu_take_objective_with_teather_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Kelvin",
+  "text": "My thanks, Kelvin.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_kelvin_clutch_heal_01.mp3",
+  "file": "Chessmaster_ally_kelvin_clutch_heal_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Kelvin",
+  "text": "You save my life, Kelvin.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_kelvin_clutch_heal_02.mp3",
+  "file": "Chessmaster_ally_kelvin_clutch_heal_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Kelvin",
+  "text": "I owe you, Kelvin.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_kelvin_clutch_heal_03.mp3",
+  "file": "Chessmaster_ally_kelvin_clutch_heal_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Lady Geist",
+  "text": "That was col'-blooded.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_ghost_see_big_swap_01.mp3",
+  "file": "Chessmaster_ally_ghost_see_big_swap_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Lady Geist",
+  "text": "Geist made her move!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_ghost_see_big_swap_02.mp3",
+  "file": "Chessmaster_ally_ghost_see_big_swap_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Lady Geist",
+  "text": "Geist sprung the trap!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_ghost_see_big_swap_03.mp3",
+  "file": "Chessmaster_ally_ghost_see_big_swap_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Lash",
+  "text": "Impressive, Lash.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_lash_see_massive_stomp_01.mp3",
+  "file": "Chessmaster_ally_lash_see_massive_stomp_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Lash",
+  "text": "Maybe he's not all talk after all.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_lash_see_massive_stomp_02.mp3",
+  "file": "Chessmaster_ally_lash_see_massive_stomp_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Lash",
+  "text": "Well, I see where his ego comes from.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_lash_see_massive_stomp_03.mp3",
+  "file": "Chessmaster_ally_lash_see_massive_stomp_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "McGinnis",
+  "text": "Good thinkin', Maggie!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_forge_wall_stun_kill_01.mp3",
+  "file": "Chessmaster_ally_forge_wall_stun_kill_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "McGinnis",
+  "text": "Maggie stopped them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_forge_wall_stun_kill_02.mp3",
+  "file": "Chessmaster_ally_forge_wall_stun_kill_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "McGinnis",
+  "text": "Now that's usin' your head, McGinnis.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_forge_wall_stun_kill_03.mp3",
+  "file": "Chessmaster_ally_forge_wall_stun_kill_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "McGinnis",
+  "text": "Thank you for takin' care of me, Maggie.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_forge_clutch_heal_01.mp3",
+  "file": "Chessmaster_ally_forge_clutch_heal_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "McGinnis",
+  "text": "I won't forget this, McGinnis.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_forge_clutch_heal_02.mp3",
+  "file": "Chessmaster_ally_forge_clutch_heal_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "McGinnis",
+  "text": "Your kindness is vast, McGinnis.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_forge_clutch_heal_03.mp3",
+  "file": "Chessmaster_ally_forge_clutch_heal_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Mo & Krill",
+  "text": "Thanks, Mo.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_krill_grab_mid_enemy_ult_01.mp3",
+  "file": "Chessmaster_ally_krill_grab_mid_enemy_ult_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Mo & Krill",
+  "text": "Glad the mole man is with us.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_krill_grab_mid_enemy_ult_02.mp3",
+  "file": "Chessmaster_ally_krill_grab_mid_enemy_ult_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Mo & Krill",
+  "text": "That could've gone bad if it weren't for Mo and Krill.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_krill_grab_mid_enemy_ult_03.mp3",
+  "file": "Chessmaster_ally_krill_grab_mid_enemy_ult_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Paradox",
+  "text": "Smart thinkin', Paradox!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_chrono_swap_to_boss_01.mp3",
+  "file": "Chessmaster_ally_chrono_swap_to_boss_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Paradox",
+  "text": "Paradox moved 'em into position!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_chrono_swap_to_boss_02.mp3",
+  "file": "Chessmaster_ally_chrono_swap_to_boss_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Paradox",
+  "text": "Good plan, Paradox.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_chrono_swap_to_boss_03.mp3",
+  "file": "Chessmaster_ally_chrono_swap_to_boss_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Seven",
+  "text": "That man is dangerous.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_gigawatt_multi_kill_ult_01.mp3",
+  "file": "Chessmaster_ally_gigawatt_multi_kill_ult_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Seven",
+  "text": "That man will kill anythin' to get what he wants.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_gigawatt_multi_kill_ult_02.mp3",
+  "file": "Chessmaster_ally_gigawatt_multi_kill_ult_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Seven",
+  "text": "That was terrifyin', Seven!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_gigawatt_multi_kill_ult_03.mp3",
+  "file": "Chessmaster_ally_gigawatt_multi_kill_ult_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Shiv",
+  "text": "The man wastes no movement.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_shiv_multikill_01.mp3",
+  "file": "Chessmaster_ally_shiv_multikill_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Shiv",
+  "text": "No one should be that good at killing people.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_shiv_multikill_02.mp3",
+  "file": "Chessmaster_ally_shiv_multikill_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Shiv",
+  "text": "He fights like a man possessed!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_shiv_multikill_03.mp3",
+  "file": "Chessmaster_ally_shiv_multikill_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Shiv",
+  "text": "Shiv won't stop fightin'!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_shiv_unkillable_01.mp3",
+  "file": "Chessmaster_ally_shiv_unkillable_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Shiv",
+  "text": "Never give up, Shiv!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_shiv_unkillable_02.mp3",
+  "file": "Chessmaster_ally_shiv_unkillable_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Shiv",
+  "text": "They can't stop you, Shiv!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_shiv_unkillable_03.mp3",
+  "file": "Chessmaster_ally_shiv_unkillable_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Vindicta",
+  "text": "Great shot, Vindicta!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_hornet_far_snipe_01.mp3",
+  "file": "Chessmaster_ally_hornet_far_snipe_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Vindicta",
+  "text": "I don't know how she landed that.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_hornet_far_snipe_02.mp3",
+  "file": "Chessmaster_ally_hornet_far_snipe_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Vindicta",
+  "text": "Good job, Vindicta.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_hornet_far_snipe_03.mp3",
+  "file": "Chessmaster_ally_hornet_far_snipe_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Viscous",
+  "text": "Awww, this is nice...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_viscous_clutch_cube_01.mp3",
+  "file": "Chessmaster_ally_viscous_clutch_cube_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Viscous",
+  "text": "I wish I had The Cube in my life when I was younger.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_viscous_clutch_cube_02.mp3",
+  "file": "Chessmaster_ally_viscous_clutch_cube_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Viscous",
+  "text": "Thank you, Viscous!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_viscous_clutch_cube_03.mp3",
+  "file": "Chessmaster_ally_viscous_clutch_cube_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Warden",
+  "text": "Warden demolished them!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_warden_big_ult_01.mp3",
+  "file": "Chessmaster_ally_warden_big_ult_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Warden",
+  "text": "Warden is fearless!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_warden_big_ult_02.mp3",
+  "file": "Chessmaster_ally_warden_big_ult_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Warden",
+  "text": "Warden took them all on!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_warden_big_ult_03.mp3",
+  "file": "Chessmaster_ally_warden_big_ult_03.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Yamato",
+  "text": "Yamato is ruthless!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_yamato_kills_with_hook_01.mp3",
+  "file": "Chessmaster_ally_yamato_kills_with_hook_01.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Yamato",
+  "text": "They probably thought they were getting away, too!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_yamato_kills_with_hook_02.mp3",
+  "file": "Chessmaster_ally_yamato_kills_with_hook_02.mp3"
+ },
+ {
+  "cat": "heroAlly",
+  "hero": "Yamato",
+  "text": "There's no point in runnin' from Yamato.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_ally_yamato_kills_with_hook_03.mp3",
+  "file": "Chessmaster_ally_yamato_kills_with_hook_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Abrams",
+  "text": "I need help with the Detective!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_atlas_unkillable_01.mp3",
+  "file": "Chessmaster_enemy_atlas_unkillable_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Abrams",
+  "text": "Abrams isn't goin' down!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_atlas_unkillable_02.mp3",
+  "file": "Chessmaster_enemy_atlas_unkillable_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Abrams",
+  "text": "We need to stop Abrams!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_atlas_unkillable_03.mp3",
+  "file": "Chessmaster_enemy_atlas_unkillable_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Bebop",
+  "text": "Whoa!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_bebop_hooked_01.mp3",
+  "file": "Chessmaster_enemy_bebop_hooked_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Bebop",
+  "text": "I'm hooked!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_bebop_hooked_02.mp3",
+  "file": "Chessmaster_enemy_bebop_hooked_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Bebop",
+  "text": "This is gonna go bad...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_bebop_hooked_03.mp3",
+  "file": "Chessmaster_enemy_bebop_hooked_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Bebop",
+  "text": "I thought you were more clever, Bebop.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_bebop_kill_mid_laser_01.mp3",
+  "file": "Chessmaster_enemy_bebop_kill_mid_laser_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Bebop",
+  "text": "You exposed yourself, Bebop. You exposed yourself, Bebop.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_bebop_kill_mid_laser_02.mp3",
+  "file": "Chessmaster_enemy_bebop_kill_mid_laser_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Bebop",
+  "text": "He left himself wide open.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_bebop_kill_mid_laser_03.mp3",
+  "file": "Chessmaster_enemy_bebop_kill_mid_laser_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Dynamo",
+  "text": "Look out for the black hole!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_dynamo_charges_01.mp3",
+  "file": "Chessmaster_enemy_dynamo_charges_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Dynamo",
+  "text": "Here comes the Professor!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_dynamo_charges_02.mp3",
+  "file": "Chessmaster_enemy_dynamo_charges_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Dynamo",
+  "text": "The Professor is makin' a move!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_dynamo_charges_03.mp3",
+  "file": "Chessmaster_enemy_dynamo_charges_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Grey Talon",
+  "text": "Talon's lookin' for us!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_orion_see_missile_01.mp3",
+  "file": "Chessmaster_enemy_orion_see_missile_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Grey Talon",
+  "text": "Here comes the owl!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_orion_see_missile_02.mp3",
+  "file": "Chessmaster_enemy_orion_see_missile_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Grey Talon",
+  "text": "Look out for the owl!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_orion_see_missile_03.mp3",
+  "file": "Chessmaster_enemy_orion_see_missile_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Haze",
+  "text": "I thought of everything, Haze.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_haze_kill_when_invisible_01.mp3",
+  "file": "Chessmaster_enemy_haze_kill_when_invisible_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Haze",
+  "text": "You think I didn't plan for your tricks, Haze?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_haze_kill_when_invisible_02.mp3",
+  "file": "Chessmaster_enemy_haze_kill_when_invisible_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Haze",
+  "text": "She was never going to escape me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_haze_kill_when_invisible_03.mp3",
+  "file": "Chessmaster_enemy_haze_kill_when_invisible_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Holliday",
+  "text": "I'm not goin' anywhere, Sheriff!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_astro_bounce_escape_01.mp3",
+  "file": "Chessmaster_enemy_astro_bounce_escape_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Holliday",
+  "text": "You know where to find me, Holliday.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_astro_bounce_escape_02.mp3",
+  "file": "Chessmaster_enemy_astro_bounce_escape_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Holliday",
+  "text": "I'll be waitin', Holliday.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_astro_bounce_escape_03.mp3",
+  "file": "Chessmaster_enemy_astro_bounce_escape_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Holliday",
+  "text": "Put me down!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_astro_lassoed_01.mp3",
+  "file": "Chessmaster_enemy_astro_lassoed_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Holliday",
+  "text": "What are you doin'?!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_astro_lassoed_02.mp3",
+  "file": "Chessmaster_enemy_astro_lassoed_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Holliday",
+  "text": "Holliday has me!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_astro_lassoed_03.mp3",
+  "file": "Chessmaster_enemy_astro_lassoed_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Infernus",
+  "text": "I won't let ya stop me, Fern.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_inferno_killed_mid_ult_01.mp3",
+  "file": "Chessmaster_enemy_inferno_killed_mid_ult_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Infernus",
+  "text": "Infernus almost had us.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_inferno_killed_mid_ult_02.mp3",
+  "file": "Chessmaster_enemy_inferno_killed_mid_ult_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Infernus",
+  "text": "Put him out just in time.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_inferno_killed_mid_ult_03.mp3",
+  "file": "Chessmaster_enemy_inferno_killed_mid_ult_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Ivy",
+  "text": "I didn't think you were craven, Ivy.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_tengu_flies_away_01.mp3",
+  "file": "Chessmaster_enemy_tengu_flies_away_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Ivy",
+  "text": "She was wise to fly away.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_tengu_flies_away_02.mp3",
+  "file": "Chessmaster_enemy_tengu_flies_away_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Ivy",
+  "text": "Ivy's taken flight.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_tengu_flies_away_03.mp3",
+  "file": "Chessmaster_enemy_tengu_flies_away_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Kelvin",
+  "text": "You're a long way from Rockefeller Center, my friend.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_kelvin_kill_on_ice_path_01.mp3",
+  "file": "Chessmaster_enemy_kelvin_kill_on_ice_path_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Kelvin",
+  "text": "A worthy attempt, Kelvin.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_kelvin_kill_on_ice_path_02.mp3",
+  "file": "Chessmaster_enemy_kelvin_kill_on_ice_path_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Kelvin",
+  "text": "And he thought he could get away.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_kelvin_kill_on_ice_path_03.mp3",
+  "file": "Chessmaster_enemy_kelvin_kill_on_ice_path_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Lady Geist",
+  "text": "Don't get close to Lady Geist!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_ghost_ping_with_swap_01.mp3",
+  "file": "Chessmaster_enemy_ghost_ping_with_swap_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Lady Geist",
+  "text": "Don't let Geist steal your health!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_ghost_ping_with_swap_02.mp3",
+  "file": "Chessmaster_enemy_ghost_ping_with_swap_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Lady Geist",
+  "text": "Geist is going to try to lure you close.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_ghost_ping_with_swap_03.mp3",
+  "file": "Chessmaster_enemy_ghost_ping_with_swap_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Lash",
+  "text": "You'll never get the best of me, Lash.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_lash_mid_air_kill_01.mp3",
+  "file": "Chessmaster_enemy_lash_mid_air_kill_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Lash",
+  "text": "I had you the whole time, Lash.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_lash_mid_air_kill_02.mp3",
+  "file": "Chessmaster_enemy_lash_mid_air_kill_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Lash",
+  "text": "Just like I planned.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_lash_mid_air_kill_03.mp3",
+  "file": "Chessmaster_enemy_lash_mid_air_kill_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "McGinnis",
+  "text": "Maggie's machines are everywhere...",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_forge_destroy_turrets_01.mp3",
+  "file": "Chessmaster_enemy_forge_destroy_turrets_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "McGinnis",
+  "text": "Fairfax Industries has gone too far.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_forge_destroy_turrets_02.mp3",
+  "file": "Chessmaster_enemy_forge_destroy_turrets_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "McGinnis",
+  "text": "My bishops are better.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_forge_destroy_turrets_03.mp3",
+  "file": "Chessmaster_enemy_forge_destroy_turrets_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Mo & Krill",
+  "text": "Mo has me!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_krill_grabbed_01.mp3",
+  "file": "Chessmaster_enemy_krill_grabbed_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Mo & Krill",
+  "text": "Release me, Krill!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_krill_grabbed_02.mp3",
+  "file": "Chessmaster_enemy_krill_grabbed_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Mo & Krill",
+  "text": "I need help here!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_krill_grabbed_03.mp3",
+  "file": "Chessmaster_enemy_krill_grabbed_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Paradox",
+  "text": "An opening gambit isn't enough.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_chrono_kill_post_swap_01.mp3",
+  "file": "Chessmaster_enemy_chrono_kill_post_swap_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Paradox",
+  "text": "I planned for everythin'.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_chrono_kill_post_swap_02.mp3",
+  "file": "Chessmaster_enemy_chrono_kill_post_swap_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Paradox",
+  "text": "I saw that move comin' a mile away, Paradox.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_chrono_kill_post_swap_03.mp3",
+  "file": "Chessmaster_enemy_chrono_kill_post_swap_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Seven",
+  "text": "Take cover!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_gigawatt_hide_from_ult_01.mp3",
+  "file": "Chessmaster_enemy_gigawatt_hide_from_ult_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Seven",
+  "text": "Get behind somethin'!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_gigawatt_hide_from_ult_02.mp3",
+  "file": "Chessmaster_enemy_gigawatt_hide_from_ult_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Seven",
+  "text": "Hide from the lightning!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_gigawatt_hide_from_ult_03.mp3",
+  "file": "Chessmaster_enemy_gigawatt_hide_from_ult_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Shiv",
+  "text": "I need help with Shiv!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_shiv_unkillable_01.mp3",
+  "file": "Chessmaster_enemy_shiv_unkillable_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Shiv",
+  "text": "Shiv isn't dying!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_shiv_unkillable_02.mp3",
+  "file": "Chessmaster_enemy_shiv_unkillable_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Shiv",
+  "text": "Shiv just keeps comin'!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_shiv_unkillable_03.mp3",
+  "file": "Chessmaster_enemy_shiv_unkillable_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Vindicta",
+  "text": "Sniper!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_hornet_damaged_by_snipe_01.mp3",
+  "file": "Chessmaster_enemy_hornet_damaged_by_snipe_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Vindicta",
+  "text": "Look out for Vindicta!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_hornet_damaged_by_snipe_02.mp3",
+  "file": "Chessmaster_enemy_hornet_damaged_by_snipe_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Vindicta",
+  "text": "Vindicta's takin' aim!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_hornet_damaged_by_snipe_03.mp3",
+  "file": "Chessmaster_enemy_hornet_damaged_by_snipe_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Vindicta",
+  "text": "She didn't make that easy.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_hornet_killed_mid_air_01.mp3",
+  "file": "Chessmaster_enemy_hornet_killed_mid_air_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Vindicta",
+  "text": "Oh, you thought you were safe up there, didn't you, Vindicta?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_hornet_killed_mid_air_02.mp3",
+  "file": "Chessmaster_enemy_hornet_killed_mid_air_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Vindicta",
+  "text": "Brought down Vindicta.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_hornet_killed_mid_air_03.mp3",
+  "file": "Chessmaster_enemy_hornet_killed_mid_air_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Warden",
+  "text": "Look out for Warden!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_warden_see_ult_01.mp3",
+  "file": "Chessmaster_enemy_warden_see_ult_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Warden",
+  "text": "Here comes Warden!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_warden_see_ult_02.mp3",
+  "file": "Chessmaster_enemy_warden_see_ult_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Warden",
+  "text": "Warden incoming!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_warden_see_ult_03.mp3",
+  "file": "Chessmaster_enemy_warden_see_ult_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Wraith",
+  "text": "Damn you, Wraith!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_wraith_lifts_01.mp3",
+  "file": "Chessmaster_enemy_wraith_lifts_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Wraith",
+  "text": "Wraith has me!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_wraith_lifts_02.mp3",
+  "file": "Chessmaster_enemy_wraith_lifts_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Wraith",
+  "text": "Wraith!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_wraith_lifts_03.mp3",
+  "file": "Chessmaster_enemy_wraith_lifts_03.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Yamato",
+  "text": "Get away from Yamato!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_yamato_starts_ult_01.mp3",
+  "file": "Chessmaster_enemy_yamato_starts_ult_01.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Yamato",
+  "text": "Don't get close to Yamato!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_yamato_starts_ult_02.mp3",
+  "file": "Chessmaster_enemy_yamato_starts_ult_02.mp3"
+ },
+ {
+  "cat": "heroEnemy",
+  "hero": "Yamato",
+  "text": "Stay away from Yamato.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_enemy_yamato_starts_ult_03.mp3",
+  "file": "Chessmaster_enemy_yamato_starts_ult_03.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I'm Solomon, and I'm here to win.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_01.mp3",
+  "file": "Chessmaster_hero_anim_intro_01.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I'll make sure this isn't the end of New York.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_02.mp3",
+  "file": "Chessmaster_hero_anim_intro_02.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "If I don't make my move... this town is in trouble.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_03.mp3",
+  "file": "Chessmaster_hero_anim_intro_03.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I'm going to be a thorn in the Patron's side.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_04.mp3",
+  "file": "Chessmaster_hero_anim_intro_04.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "My tactics will keep them guessing.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_05.mp3",
+  "file": "Chessmaster_hero_anim_intro_05.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "We have to be smart, focused, and deliberate.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_06.mp3",
+  "file": "Chessmaster_hero_anim_intro_06.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "Ya won't get me to concede!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_07.mp3",
+  "file": "Chessmaster_hero_anim_intro_07.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "They don't know who they're playin' against.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_08.mp3",
+  "file": "Chessmaster_hero_anim_intro_08.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "The odds are in my favor.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_09.mp3",
+  "file": "Chessmaster_hero_anim_intro_09.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I've been across the table from worse.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_10.mp3",
+  "file": "Chessmaster_hero_anim_intro_10.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I won't let the people of New York be harmed.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_11.mp3",
+  "file": "Chessmaster_hero_anim_intro_11.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "Don't worry. I'm a good team player too.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_12.mp3",
+  "file": "Chessmaster_hero_anim_intro_12.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "They don't know it, but they've already lost.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_13.mp3",
+  "file": "Chessmaster_hero_anim_intro_13.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "Better I do this than the dregs of New York.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_14.mp3",
+  "file": "Chessmaster_hero_anim_intro_14.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I'll break the curse that chokes this city.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_15.mp3",
+  "file": "Chessmaster_hero_anim_intro_15.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "The Patrons aren't doin' this for us.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_16.mp3",
+  "file": "Chessmaster_hero_anim_intro_16.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I'll help us stay the course.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_17.mp3",
+  "file": "Chessmaster_hero_anim_intro_17.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I'll rise to this occasion.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_18.mp3",
+  "file": "Chessmaster_hero_anim_intro_18.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I can't sit on the sidelines for this.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_19.mp3",
+  "file": "Chessmaster_hero_anim_intro_19.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "How does it feel to be outmatched?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_20.mp3",
+  "file": "Chessmaster_hero_anim_intro_20.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "Should we put a little money on this?",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_21.mp3",
+  "file": "Chessmaster_hero_anim_intro_21.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "Let's take 'em for everything they got!",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_22.mp3",
+  "file": "Chessmaster_hero_anim_intro_22.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "They'll regret underestimating me.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_23.mp3",
+  "file": "Chessmaster_hero_anim_intro_23.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "I know what I have to do.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_24.mp3",
+  "file": "Chessmaster_hero_anim_intro_24.mp3"
+ },
+ {
+  "cat": "intro",
+  "text": "It's time to end this.",
+  "url": "https://cdn.deadlock.wiki/Chessmaster_hero_anim_intro_25.mp3",
+  "file": "Chessmaster_hero_anim_intro_25.mp3"
+ }
+]
